@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am Manas Sharma<br><br> Student of class XII<br><br> I started coding on 7 july,2023<br><br> Currently I am studying in S.K.D. Academy<br> <br> I am new to coding so if you find some error then let know it.
+ I am Manas Sharma<br><br> Student of class XII<br><br> Interested in Programming <br> Primarily use Python <br> Can also do small scale video editing <br> <br> I am new to coding so if you find some error then let know it.
 
 
 ## 🌐 Socials:
