@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am Manas Sharma<br><br> Student of class XII (waiting for results)<br><br> Interested in Programming <br><br> Primarily use Python <br> <br>Learning C++ and DSA<br><br> Can also do small scale video editing <br> <br> I am new to coding so if you find some error then let know it.
+ I am Manas Sharma<br><br> Student of class XII (waiting for results)<br><br> Interested in Programming <br> <br>Learning DSA in C++ <br><br> Can also do small scale video editing <br> <br> I am new to coding so if you find some error then let know it.
 
 
 ## 🌐 Socials:
