@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am Manas Sharma<br><br>Passed Class 12 with 90.6%<br><br>Currently a First year B.tech CSE student at BML Munjal University<br> <br>Learning C++ <br><br> Can also do small scale video editing <br> <br> I am new to coding so if you find some error then let know it.
+ I am Manas Sharma<br><br>Currently a First year B.tech CSE student at BML Munjal University<br> <br>Learning C++ <br><br> Can also do small scale video editing <br> <br> I am new to coding so if you find some error then let know it.
 
 
 ## 🌐 Socials:
