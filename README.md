@@ -87,9 +87,11 @@ I contribute primarily to repos touching DSA tooling, web utilities, and beginne
     <td>
       <b>Neural Network for MNIST Digit Classification</b><br/>
       Trained a neural network to classify handwritten digits, reaching <b>97.45% test accuracy</b>.<br/>
-      <code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>NumPy</code><br/>
-
-      <a href="https://github.com/ManasCodez/Machine-Learning-Fundamentals/blob/main/machine-learning-fundamentals/Neural_Networks/neural_network.ipynb">🔗 View Repository</a>
+      <code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>NumPy</code><br/><br/>
+      <!-- REPLACE with your project link -->
+      <a href="https://github.com/ManasCodez/Machine-Learning-Fundamentals/blob/main/machine-learning-fundamentals/Neural_Networks/neural_network.ipynb">
+        <img src="https://img.shields.io/badge/View%20Repository-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -97,9 +99,11 @@ I contribute primarily to repos touching DSA tooling, web utilities, and beginne
     <td>
       <b>Local RAG Application</b><br/>
       A locally-hosted Retrieval-Augmented Generation app for document Q&A, running fully offline.<br/>
-      <code>LangChain</code> <code>Streamlit</code> <code>Ollama</code> <code>ChromaDB</code><br/>
- 
-      <a href="https://github.com/ManasCodez/RAG-Chatbot">🔗 View Repository</a>
+      <code>LangChain</code> <code>Streamlit</code> <code>Ollama</code> <code>ChromaDB</code><br/><br/>
+      <!-- REPLACE with your project link -->
+      <a href="https://github.com/ManasCodez/RAG-Chatbot">
+        <img src="https://img.shields.io/badge/View%20Repository-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+      </a>
     </td>
   </tr>
 </table>
