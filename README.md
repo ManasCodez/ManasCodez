@@ -1,9 +1,8 @@
 
 
-<!-- Banner: self-hosted SVG (assets/banner.svg), no external service = never breaks.
-     Edit text/colors directly in the SVG file. -->
+
 <p align="center">
-  <!-- REPLACE with the raw URL once you've committed assets/banner.svg to your repo -->
+ 
   <img src="assets/banner.svg" alt="banner" width="100%"/>
 </p>
 
@@ -15,7 +14,7 @@
 </p>
 
 <p align="center">
-  <!-- REPLACE username in every badge below with your GitHub username -->
+
   <img src="https://komarev.com/ghpvc/?username=ManasCodez&style=flat-square&color=1e3a8a" alt="profile views"/>
   <a href="https://linkedin.com/in/manas-sharma--"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:manasmailsss@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -89,8 +88,8 @@ I contribute primarily to repos touching DSA tooling, web utilities, and beginne
       <b>Neural Network for MNIST Digit Classification</b><br/>
       Trained a neural network to classify handwritten digits, reaching <b>97.45% test accuracy</b>.<br/>
       <code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>NumPy</code><br/>
-      <!-- REPLACE with your project link -->
-      <a href="#">🔗 View Repository</a>
+
+      <a href="https://github.com/ManasCodez/Machine-Learning-Fundamentals/blob/main/machine-learning-fundamentals/Neural_Networks/neural_network.ipynb">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
@@ -99,8 +98,8 @@ I contribute primarily to repos touching DSA tooling, web utilities, and beginne
       <b>Local RAG Application</b><br/>
       A locally-hosted Retrieval-Augmented Generation app for document Q&A, running fully offline.<br/>
       <code>LangChain</code> <code>Streamlit</code> <code>Ollama</code> <code>ChromaDB</code><br/>
-      <!-- REPLACE with your project link -->
-      <a href="#">🔗 View Repository</a>
+ 
+      <a href="https://github.com/ManasCodez/RAG-Chatbot">🔗 View Repository</a>
     </td>
   </tr>
 </table>
@@ -126,8 +125,7 @@ I contribute primarily to repos touching DSA tooling, web utilities, and beginne
   <img src="https://raw.githubusercontent.com/ManasCodez/ManasCodez/output/profile-summary-card-output/repos-per-language.svg" height="165"/>
 </p>
 
-<!-- Trophies: still served live from the public instance. This one has generally stayed
-     reliable, but if it ever breaks, self-host via github.com/ryo-ma/github-profile-trophy -->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ManasCodez&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
@@ -155,26 +153,4 @@ I contribute primarily to repos touching DSA tooling, web utilities, and beginne
   <i>"Just Give Up, but Tomorrow"</i>
 </p>
 
-<!--
-============================================================
-SETUP CHECKLIST — do this once after pushing to ManasCodez/ManasCodez
-============================================================
-1. Commit assets/banner.svg (included alongside this README) to the repo root.
-   Update the <img src> at the top of this file if your repo/branch differs.
 
-2. Copy .github/workflows/profile-summary-cards.yml and
-   .github/workflows/snake.yml into your repo's .github/workflows/ folder.
-
-3. Go to Settings → Actions → General → Workflow permissions, and set it to
-   "Read and write permissions". Both workflows need this to push generated
-   files to the "output" branch.
-
-4. Go to the Actions tab and manually run each workflow once
-   (workflow_dispatch) so the "output" branch and its files get created
-   immediately, instead of waiting for the daily schedule.
-
-5. After the first run, check the "output" branch to confirm the SVG paths
-   match what this README references — the stats-card action's exact output
-   filenames can shift between versions, so verify before relying on them.
-============================================================
--->
