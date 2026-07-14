@@ -2,25 +2,23 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  summary:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    permissions:
-      contents: write
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # GITHUB_TOKEN is provided automatically by Actions — no setup needed
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "output"     # cards are pushed to this branch, keeps main clean
-          UTC_OFFSET: 5.5           # IST offset, change if needed
-          EXCLUDE: ""
-          AUTO_PUSH: true
+          BRANCH_NAME: output
